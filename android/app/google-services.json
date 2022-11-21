@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "538194311122",
+    "project_id": "murad-agency",
+    "storage_bucket": "murad-agency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538194311122:android:276a651e703c89df8cfa0b",
+        "android_client_info": {
+          "package_name": "com.example.outdor_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538194311122-rnfaucld4e2in6p54ocun8spr4qu0qsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.outdor_calculator",
+            "certificate_hash": "ce3983bbed705f0d8bfbe83fd5f31a8a34c2f6b4"
+          }
+        },
+        {
+          "client_id": "538194311122-svi76qp38fn1v5q19mri3se1gsur6ppg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX5HOXa8lDyWuy4p76WENNIfd6_gfcMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538194311122-svi76qp38fn1v5q19mri3se1gsur6ppg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538194311122-cj2kf532gl18aherp02c3ptvvc5voq51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.outdorCalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
